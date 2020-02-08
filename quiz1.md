@@ -29,3 +29,26 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+
+## Answers
+
+1. git is the tool used to communicate between remote and local.
+
+2. bash is the tool used to commit repo's to github.
+
+3. cd ..
+
+4. A linter is a 
+
+5. `SyntaxError` could mean you're missing a ';' within the code to run properly.
+
+6. Keywords are 'const', 'let' and 'var'.
+
+7. I do not remember what `npm` means.
+
+8. I do not remember what JSON stands for.
+
+9. When we enter `npm install`, bash gets the template to visual code?
+
+10. Primitive data types are: string, number and boolean?
