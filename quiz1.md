@@ -18,7 +18,7 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 4. What's a *linter*❓What is it good for?
 
-5. What might an `SyntaxError` mean?
+5. What might a `SyntaxError` mean?
 
 6. What ES6 keywords do we use to _declare variables?_
 
