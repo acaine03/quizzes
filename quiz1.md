@@ -33,22 +33,22 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 ## Answers
 
-1. git is the tool used to communicate between remote and local.
+1. A version control system (VCS) used to provide code backups (commits) when pushing to github.
 
-2. bash is the tool used to commit repo's to github.
+2. bash is a program installed in most terminal emulators (GitBash) and used to give us commands to work with our machine and file system.
 
-3. cd ..
+3. cd
 
-4. A linter is a 
+4. A linter finds and fixes bugs.
 
 5. `SyntaxError` could mean you're missing a ';' within the code to run properly.
 
 6. Keywords are 'const', 'let' and 'var'.
 
-7. I do not remember what `npm` means.
+7. npm stands for Node Package Manager.
 
-8. I do not remember what JSON stands for.
+8. JSON stands for JavaScript Object Notation.
 
-9. When we enter `npm install`, bash gets the template to visual code?
+9. By checking 'package.json', dependencies or devDependencies, it reaches out to npmjs.com and installs modules into 'node_modules'.
 
 10. Primitive data types are: string, number and boolean?
